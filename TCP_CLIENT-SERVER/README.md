@@ -1,4 +1,4 @@
-This project demonstrates the basic implementation of a TCP (Transmission Control Protocol) Client-Server model** using Python's built-in `socket` module. It illustrates how a client and a server establish a connection and exchange messages over a network.
+This project demonstrates the basic implementation of a TCP (Transmission Control Protocol) Client-Server model using Python's built-in `socket` module. It illustrates how a client and a server establish a connection and exchange messages over a network.
 
 ## Features
 
