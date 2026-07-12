@@ -10,7 +10,11 @@
 
 
 
-https://github.com/user-attachments/assets/a134b0d1-2761-4047-9f86-6f24e1694e83
+
+
+https://github.com/user-attachments/assets/57be82e9-6e4a-43aa-87e8-12cfe7f0f868
+
+
 
 THE CHAT INTERFACE OF CLIENT-:
 
