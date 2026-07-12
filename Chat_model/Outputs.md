@@ -1,18 +1,6 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/user-attachments/assets/57be82e9-6e4a-43aa-87e8-12cfe7f0f868
+https://github.com/user-attachments/assets/bf8b1651-c80e-420c-9c13-4fa57f80382a
 
 
 
@@ -23,5 +11,7 @@ THE CHAT INTERFACE OF CLIENT-:
 THE CHAT INTERFACE OF SERVER-:
 
 <img width="1550" height="999" alt="chat_model ss2" src="https://github.com/user-attachments/assets/5fd26a52-1bfc-4cc3-ad23-a323437091d1" />
+
+
 
 
