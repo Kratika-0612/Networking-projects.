@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/a134b0d1-2761-4047-9f86-6f24e1694e83
+
 THE CHAT INTERFACE OF CLIENT-:
 
 <img width="1524" height="998" alt="chat_model ss1" src="https://github.com/user-attachments/assets/e9e948f0-a243-4dc5-84a9-e888160e7775" />
