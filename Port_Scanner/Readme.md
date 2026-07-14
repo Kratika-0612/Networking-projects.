@@ -4,7 +4,7 @@ A lightweight TCP Single Port Scanner developed in Python using the socket modul
 
 This project was developed as part of my journey in learning Python, Computer Networks, and Cybersecurity.
 
-FEATURES
+FEATURES-:
 
 * Scan a single TCP port on any valid host or domain.
 * Determine whether the specified port is OPEN or CLOSED.
@@ -12,7 +12,7 @@ FEATURES
 * Gracefully handle invalid hosts and runtime exceptions.
 * Modular and readable code following functional programming principles.
 
-HOW IT WORKS
+HOW IT WORKS-:
 
 * The user enters a target host (IP address or domain name).
 * The user specifies the port number to scan.
@@ -22,13 +22,13 @@ HOW IT WORKS
 * The protocol corresponding to the port number is retrieved from the protocol lookup table.
 * The scan result is displayed in a structured dictionary format.
 
-TECHNOLOGIES USED
+TECHNOLOGIES USED-:
 
 *Python 3
 *Socket Programming
 *TCP/IP Networking
 
-PROJECT ARCHITECTURE
+PROJECT ARCHITECTURE-:
 
 main()
 │
@@ -56,7 +56,7 @@ get_protocol(port)
 └── Returns the corresponding protocol using a dictionary lookup
 
 
-LEARNING OUTCOMES
+LEARNING OUTCOMES-:
 
 Through this project, I gained practical experience with:
 
@@ -67,6 +67,6 @@ Through this project, I gained practical experience with:
 * Implementing robust exception handling
 * Designing reusable helper functions
 
-Built By:
+Built By-:
 
 KRATIKA SRIVASTAVA :)
