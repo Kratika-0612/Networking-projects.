@@ -33,15 +33,21 @@ PROJECT ARCHITECTURE
 main()
 │
 
-
 ├── Accepts host and port from the user
+
 │
+
 └── scan_port(host, port)
         │
+        
         ├── Creates a TCP socket
+       
         ├── Attempts a TCP connection
+       
         ├── Determines port status
+       
         ├── Retrieves protocol information
+       
         └── Displays scan results
 
 get_protocol(port)
