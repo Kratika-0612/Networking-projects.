@@ -32,6 +32,8 @@ PROJECT ARCHITECTURE
 
 main()
 │
+
+
 ├── Accepts host and port from the user
 │
 └── scan_port(host, port)
