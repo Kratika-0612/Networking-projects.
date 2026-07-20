@@ -89,32 +89,6 @@ client.py
 5. Each client exchanges messages independently.
 6. If a client disconnects, only its thread terminates while the server continues serving other clients.
 
----
-
-## Key Concepts Demonstrated
-
-* TCP Client-Server Architecture
-* Socket Programming
-* Concurrent Programming
-* Multi-threading
-* Thread Management
-* Continuous Communication
-* Exception Handling
-* Resource Management using `try`, `except`, and `finally`
-
----
-
-## Future Enhancements
-
-* Client usernames
-* Broadcast messaging
-* Private messaging
-* Group chat support
-* Chat history
-* File sharing
-* End-to-end encryption
-* Graphical User Interface (GUI)
-* Secure communication using SSL/TLS
 
 ---
 
@@ -132,7 +106,4 @@ Through this project, I gained practical experience with:
 
 ---
 
-## Repository Purpose
-
-This repository showcases the implementation of a multi-client TCP chat application built from scratch using Python. The project is part of my cybersecurity and networking portfolio, demonstrating practical knowledge of socket programming, multithreading, and concurrent network communication.
-
+## A
