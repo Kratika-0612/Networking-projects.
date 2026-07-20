@@ -69,6 +69,8 @@ client.py
 * Accept client connections continuously.
 * Create a dedicated thread for each connected client.
 * Handle communication independently for every client.
+  
+---
 
 ### Client Responsibilities
 
